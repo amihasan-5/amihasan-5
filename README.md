@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋  
+### Welcome to my GitHub Profile!  
 
-<!--
-**amihasan-5/amihasan-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Mohammad Hasan**, a student currently exploring the exciting world of programming and technology. I'm diving into various fields like **Machine Learning**, **Web Development**, and **Artificial Intelligence**, aiming to find my true passion!  
 
-Here are some ideas to get you started:
+### 🌱 What I’m Currently Learning:
+- Enrolled in the **CS50 course** to build strong programming fundamentals.
+- Learning **Python** and experimenting with new concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills:
+- Familiar with **C**, **HTML**, and some of **Java**.  
+- Actively exploring new technologies to expand my knowledge.
+
+### 🎮 Fun Facts:
+- I love **gaming** and enjoy solving challenging problems in my free time.
+
+### 🚀 Future Goals:
+- Work on real-world projects and contribute to open-source communities.
+- Sharpen my skills to pursue a career in tech.
+
+### 📫 How to Reach Me:
+- **Email**: [amihasan1011@gmail.com](mailto:amihasan1011@gmail.com)
+
+Thanks for visiting my profile! Feel free to connect or check out my journey here. 😊
